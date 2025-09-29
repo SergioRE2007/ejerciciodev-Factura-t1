@@ -4,7 +4,7 @@ public class App {
     public static final String AZUL = "\u001B[44m";
     public static void main(String[] args) throws Exception {
         
-         System.out.println(AZUL+"                                                                                                    "+NEGRO);
+        System.out.println(AZUL+"                                                                                                    "+NEGRO);
         System.out.println("");
         System.out.println("");
         System.out.println("Rojo Polo Paellla Inc.");
